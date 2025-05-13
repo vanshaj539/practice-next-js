@@ -1,6 +1,6 @@
 "use client"
-import Image from "next/image";
-import Page from "./fetching"
+// import Image from "next/image";
+// import Page from "./fetching"
 // export default function Home() {
 //   return (
     
@@ -119,7 +119,7 @@ import Page from "./fetching"
 //   );
 // }
 
-import React from 'react'
+// import React from 'react'
 
 // const page = () => {
 //   const handleClick = async() => {
